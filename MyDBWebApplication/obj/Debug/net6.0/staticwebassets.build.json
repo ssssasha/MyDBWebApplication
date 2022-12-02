@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0Lwgv1ZneRcQyYtk0ff0fzKO1BYgpfLQ/hM4+Mpe/7Q=",
+  "Hash": "R3HrQS+MSQWlhwAvDXp4ZaVsvESkyPYcTHWgSAGCJpg=",
   "Source": "MyDBWebApplication",
   "BasePath": "_content/MyDBWebApplication",
   "Mode": "Default",
@@ -236,6 +236,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "D:\\proga\\.vs\\MyDBWebApplication\\MyDBWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_luxx.css",
+      "SourceId": "MyDBWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\proga\\.vs\\MyDBWebApplication\\MyDBWebApplication\\wwwroot\\",
+      "BasePath": "_content/MyDBWebApplication",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap_luxx.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_luxx.css"
+    },
+    {
+      "Identity": "D:\\proga\\.vs\\MyDBWebApplication\\MyDBWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_luxx.min.css",
+      "SourceId": "MyDBWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\proga\\.vs\\MyDBWebApplication\\MyDBWebApplication\\wwwroot\\",
+      "BasePath": "_content/MyDBWebApplication",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap_luxx.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_luxx.min.css"
     },
     {
       "Identity": "D:\\proga\\.vs\\MyDBWebApplication\\MyDBWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",

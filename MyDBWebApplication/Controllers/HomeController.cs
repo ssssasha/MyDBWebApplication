@@ -4,6 +4,7 @@ using System.Diagnostics;
 
 namespace MyDBWebApplication.Controllers
 {
+
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
